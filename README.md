@@ -1,4 +1,4 @@
-# Airlines-Dashboard
+# Customer e-commerce behavior dashboard
 
 ### Dashboard Link :https://github.com/ramesh971997/BI-Dashboard/blob/main/Customer%20e-commerce%20behavior.pbix
 ## Problem Statement
