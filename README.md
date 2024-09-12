@@ -45,7 +45,9 @@ All these values have been ignored while calculating average rating for each of 
           Age >= 65 && Age < 75, "65-74",
           Age >= 75, "75+"
        )
-
+  Snapshot of the Sum of Product price and Age Category by Age
+![bar chart](https://github.com/user-attachments/assets/e48543f2-f86e-436e-b123-0c6365ff20ef)
+Step 13 DAX code visualize the final outcome from this attached snapshot.
 
 
 
