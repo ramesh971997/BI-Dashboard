@@ -63,7 +63,7 @@ Donut chart represent the genderwise whole distribution with each product price.
 
 
 Snapshot of Sum of Product Price by Churn situation
-
+![pie](https://github.com/user-attachments/assets/15173b09-8641-445f-afab-913e2b8545ba)
 The pie chart captures the uncertainty consumers face when making a purchase decision. The majority, a striking 80.09%, tend to reconsider or abandon their purchase primarily when comparing product prices.
 
 Snapshot of timeline of the purchase date
