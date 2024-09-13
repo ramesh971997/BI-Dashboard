@@ -58,7 +58,7 @@ Snapshot of Matrix highlighted the quantity distribution of four products by gen
 This matrix illustrates the distribution of products based on gender, revealing key purchasing patterns. It shows that male customers have a stronger preference for books, with 112,232 purchases, and electronics, with 75,439 purchases. On the other hand, female customers are more inclined towards clothing, with 113,915 purchases, and home-related items, with 75,097 purchases. Overall, the data indicates that female consumers are more actively engaging with e-commerce platforms across a wider range of product categories.
 
 Snapshot of Sum of Product Price by Gender
-
+![donut](https://github.com/user-attachments/assets/1b704551-5a31-42ae-9734-a5c6aa63a99d)
 Donut chart represent the genderwise whole distribution with each product price.With a notable 50.2% majority, female consumers have embraced the e-commerce platform, making it their preferred shopping destination.
 
 
