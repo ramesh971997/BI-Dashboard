@@ -50,8 +50,8 @@ All these values have been ignored while calculating average rating for each of 
 Step 13 DAX code visualize the final outcome from this attached snapshot.
 
  Snapshot of the Sum of Product price by Gender and Product Category
-
- Distribution of the product price categorized by 4 main product types(Books,Clothes, Electricity, Home) and Gender represent this bar graph. When consider 2020-2023 time period, clearly customers allocate their money to buy clothes and books.(Nearly 10M for all products.) 
+![bar chart 2](https://github.com/user-attachments/assets/8eb98bc0-e221-4af4-b45a-196a879af57f)
+Distribution of the product price categorized by 4 main product types(Books,Clothes, Electricity, Home) and Gender represent this bar graph. When consider 2020-2023 time period, clearly customers allocate their money to buy clothes and books.(Nearly 10M for all products.) 
 
 Snapshot of Matrix highlighted the quantity distribution of four products by gender and payment method
 
