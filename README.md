@@ -45,19 +45,30 @@ All these values have been ignored while calculating average rating for each of 
           Age >= 65 && Age < 75, "65-74",
           Age >= 75, "75+"
        )
-  Snapshot of the Sum of Product price and Age Category by Age
+Snapshot of the Sum of Product price and Age Category by Age
 ![bar chart](https://github.com/user-attachments/assets/e48543f2-f86e-436e-b123-0c6365ff20ef)
 Step 13 DAX code visualize the final outcome from this attached snapshot.
 
- Snapshot of the Sum of Product price by Gender and Product Category
+Snapshot of the Sum of Product price by Gender and Product Category
 ![bar chart 2](https://github.com/user-attachments/assets/8eb98bc0-e221-4af4-b45a-196a879af57f)
 Distribution of the product price categorized by 4 main product types(Books,Clothes, Electricity, Home) and Gender represent this bar graph. When consider 2020-2023 time period, clearly customers allocate their money to buy clothes and books.(Nearly 10M for all products.) 
 
 Snapshot of Matrix highlighted the quantity distribution of four products by gender and payment method
-
+![Matrix_1](https://github.com/user-attachments/assets/0f82ea81-1646-47e5-96e4-112231657fb3)
 This matrix illustrates the distribution of products based on gender, revealing key purchasing patterns. It shows that male customers have a stronger preference for books, with 112,232 purchases, and electronics, with 75,439 purchases. On the other hand, female customers are more inclined towards clothing, with 113,915 purchases, and home-related items, with 75,097 purchases. Overall, the data indicates that female consumers are more actively engaging with e-commerce platforms across a wider range of product categories.
 
+Snapshot of Sum of Product Price by Gender
 
-  
+Donut chart represent the genderwise whole distribution with each product price.With a notable 50.2% majority, female consumers have embraced the e-commerce platform, making it their preferred shopping destination.
+
+
+Snapshot of Sum of Product Price by Churn situation
+
+The pie chart captures the uncertainty consumers face when making a purchase decision. The majority, a striking 80.09%, tend to reconsider or abandon their purchase primarily when comparing product prices.
+
+Snapshot of timeline of the purchase date
+
+
+The timeline offers a versatile view of data, neatly grouped by annual, monthly, quarterly, weekly, and daily records. The added flexibility to adjust time intervals is a significant advantage, allowing for tailored insights at a glance
 
 
