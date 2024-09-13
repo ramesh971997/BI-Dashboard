@@ -3,11 +3,9 @@
 ### Dashboard Link :https://github.com/ramesh971997/BI-Dashboard/blob/main/Customer%20e-commerce%20behavior.pbix
 ## Problem Statement
 
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
-
-Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
-
-Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
+The E-commerce Customer Behavior and Purchase Dataset is a synthetic dataset generated using the Faker Python library, designed to simulate a comprehensive e-commerce environment. This dataset captures various aspects of customer behavior and purchase history, making it ideal for data analysis and predictive modeling in the e-commerce domain. The dataset includes detailed customer information, such as unique identifiers, names, ages, and genders, along with purchase-related details like purchase dates, product categories, prices, quantities, total purchase amounts, payment methods, and return statuses. It also contains a binary churn indicator to identify customers who have stopped using the platform.
+Key insights derived from the dataset reveal that female consumers make up a slight majority (50.2%) of the customer base, while male consumers account for 49.8%. Female customers purchased around 376,000 items, slightly more than male customers, who purchased about 374,000 items. The overall churn rate, representing both male and female customers who have stopped using the platform, stands at 80.09%.
+This dataset can be used for a variety of tasks, including customer churn prediction, market basket analysis, recommendation system development, and trend analysis. It provides a valuable resource for researchers, data scientists, and analysts to model customer behavior, enhance e-commerce strategies, and develop data-driven insights for improving customer engagement and retention. The dataset is synthetic and intended for educational, research, and experimental purposes, offering a versatile foundation for exploring various data science and machine learning techniques in the e-commerce sector.
 
 
 ### Steps followed 
@@ -45,6 +43,8 @@ All these values have been ignored while calculating average rating for each of 
           Age >= 65 && Age < 75, "65-74",
           Age >= 75, "75+"
        )
+
+### Outcomes  
 Snapshot of the Sum of Product price and Age Category by Age
 ![bar chart](https://github.com/user-attachments/assets/e48543f2-f86e-436e-b123-0c6365ff20ef)
 Step 13 DAX code visualize the final outcome from this attached snapshot.
@@ -67,8 +67,7 @@ Snapshot of Sum of Product Price by Churn situation
 The pie chart captures the uncertainty consumers face when making a purchase decision. The majority, a striking 80.09%, tend to reconsider or abandon their purchase primarily when comparing product prices.
 
 Snapshot of timeline of the purchase date
-
-
-The timeline offers a versatile view of data, neatly grouped by annual, monthly, quarterly, weekly, and daily records. The added flexibility to adjust time intervals is a significant advantage, allowing for tailored insights at a glance
+![timeline](https://github.com/user-attachments/assets/1e43390e-288e-4ab7-bb30-54c067dbb123)
+The timeline offers a versatile view of data, neatly grouped by annual, monthly, quarterly, weekly, and daily records. The added flexibility to adjust time intervals is a significant advantage, allowing for tailored insights at a glance.
 
 
