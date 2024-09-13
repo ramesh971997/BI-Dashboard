@@ -49,6 +49,13 @@ All these values have been ignored while calculating average rating for each of 
 ![bar chart](https://github.com/user-attachments/assets/e48543f2-f86e-436e-b123-0c6365ff20ef)
 Step 13 DAX code visualize the final outcome from this attached snapshot.
 
+ Snapshot of the Sum of Product price by Gender and Product Category
+
+ Distribution of the product price categorized by 4 main product types(Books,Clothes, Electricity, Home) and Gender represent this bar graph. When consider 2020-2023 time period, clearly customers allocate their money to buy clothes and books.(Nearly 10M for all products.) 
+
+Snapshot of Matrix highlighted the quantity distribution of four products by gender and payment method
+
+This matrix illustrates the distribution of products based on gender, revealing key purchasing patterns. It shows that male customers have a stronger preference for books, with 112,232 purchases, and electronics, with 75,439 purchases. On the other hand, female customers are more inclined towards clothing, with 113,915 purchases, and home-related items, with 75,097 purchases. Overall, the data indicates that female consumers are more actively engaging with e-commerce platforms across a wider range of product categories.
 
 
   
